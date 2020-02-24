@@ -16,7 +16,7 @@
 <button type="button" class="btn btn-success">Forums</button>
 <button type="button" class="btn btn-danger">DeckBuilder</button>
 <button type="button" class="btn btn-warning">Expansions</button>
-<button type="button" class="btn btn-info">Battlegrounds</button>
+<button type="button" class="btn btn-info">Battleground</button>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
