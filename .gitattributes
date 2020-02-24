@@ -11,7 +11,12 @@
   </head>
   <body>
     <h1>This is my schoolwork website, my theme is heartstone</h1>
-    
+    <button type="button" class="btn btn-primary">Cards</button>
+<button type="button" class="btn btn-secondary">Decks</button>
+<button type="button" class="btn btn-success">Forums</button>
+<button type="button" class="btn btn-danger">DeckBuilder</button>
+<button type="button" class="btn btn-warning">Expansions</button>
+<button type="button" class="btn btn-info">Battlegrounds</button>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
